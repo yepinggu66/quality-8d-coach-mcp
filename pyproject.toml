@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quality-8d-coach-mcp"
+version = "1.0.0"
+description = "Automotive-grade (IATF 16949 / ISO 9001) 8D Root Cause Analysis & Corrective Action MCP Server for Claude, Cursor, and Windsurf"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "StackVerdict Quality Lab", email = "support@pingguye.cn"}
+]
+keywords = ["mcp", "model-context-protocol", "quality-engineering", "8d", "iatf16949", "manufacturing", "root-cause-analysis"]
+dependencies = []
+
+[project.urls]
+Homepage = "https://pingguye.cn/stackverdict/?tool=8d"
+Repository = "https://github.com/yepinggu66/quality-8d-coach-mcp"
