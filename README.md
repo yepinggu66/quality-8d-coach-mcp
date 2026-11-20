@@ -47,11 +47,17 @@ Instantly synthesizes a structured, audit-ready 8D investigation matrix followin
 
 ---
 
-## 💰 Pro License & Export
+## 💰 Commercial Pricing & Enterprise Plant Deployment
 
-* 🌐 **Online Live Studio**: [https://pingguye.cn/stackverdict/?tool=8d](https://pingguye.cn/stackverdict/?tool=8d)
-* 📄 **Single Automotive 8D Report Export (Word/PDF)**: $9.90
-* 🚀 **Enterprise Quality Pro License**: $29/mo (Unlimited RCA simulations & FMEA linkage)
+| Tier | Scope & Features | Pricing | Deliverables |
+| :--- | :--- | :--- | :--- |
+| **Online Studio & PDF** | Single audit-ready automotive 8D report generation | **$9.90** | Instant PDF/Word export via [StackVerdict Studio](https://pingguye.cn/stackverdict/?tool=8d) |
+| **Quality Engineer Pro** | Unlimited RCA simulations & interactive FMEA linkage | **$29 / mo** | Cloud workspace & priority rule updates |
+| **On-Premise Plant Pilot** | Air-gapped pilot container for up to 25 production machines (Furnaces, Jet Mills, Presses) | **$499 / mo** | Docker image, 31 master SOP models, 14-day setup & telemetry config |
+| **Turnkey Plant Buyout** | Perpetual on-premise license, clean-room source code, micro-leakage algorithms & 1-year architecture advisory | **$18,800 USD** (¥135,000) | Full source code, complete SOP documentation & zero-cloud deployment |
+
+* 🌐 **Interactive Demo**: [N52SH Vacuum Sintering Furnace RCA Simulation](https://pingguye.cn/stackverdict/magfactory)
+* 📩 **Commercial Inquiries & Procurement**: [yepinggu66@gmail.com](mailto:yepinggu66@gmail.com) | PayPal: `yepinggu66@gmail.com`
 
 ---
 
