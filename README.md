@@ -57,7 +57,7 @@ Instantly synthesizes a structured, audit-ready 8D investigation matrix followin
 | **Turnkey Plant Buyout** | Perpetual on-premise license, clean-room source code, micro-leakage algorithms & 1-year architecture advisory | **$18,800 USD** (¥135,000) | Full source code, complete SOP documentation & zero-cloud deployment |
 
 * 🌐 **Interactive Demo**: [N52SH Vacuum Sintering Furnace RCA Simulation](https://pingguye.cn/stackverdict/magfactory)
-* 📩 **Commercial Inquiries & Procurement**: [yepinggu66@gmail.com](mailto:yepinggu66@gmail.com) | PayPal: `yepinggu66@gmail.com`
+* 📩 **Commercial Inquiries & Procurement**: [yepinggu6@gmail.com](mailto:yepinggu6@gmail.com) | PayPal: `yepinggu6@gmail.com`
 
 ---
 
